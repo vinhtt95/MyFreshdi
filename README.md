@@ -120,10 +120,10 @@ Sau khi hoàn tất việc thực hiện các thay đổi và lưu lại, ngư�
 
 * Get Thông tin lô sản phẩm
   <br>
-  <img src="assets/images/screenshort01.png" alt="Screen-Short-01" width="2532" height="1170">
+  <img src="assets/images/screenshort01.png" alt="Screen-Short-01" width="253.2" height="117">
 * Thêm thông tin giao dịch
   <br>
-  <img src="assets/images/screenshort02.png" alt="Screen-Short-02" width="2532" height="1170">
+  <img src="assets/images/screenshort02.png" alt="Screen-Short-02" width="253.2" height="117">
 
 <!-- ACKNOWLEDGEMENTS -->
 
